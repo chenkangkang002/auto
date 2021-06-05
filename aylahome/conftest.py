@@ -15,7 +15,7 @@ from appium import webdriver
 
 
 @pytest.fixture(scope="session",autouse=True)
-def getDriverAndroid():
+def getDriverAndroid(): 
     '''打开Android端的连接'''
     #另外一个手机：b313d9f0
     #施工
