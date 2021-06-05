@@ -14,5 +14,5 @@ import pytest
 if __name__ == '__main__':
     pytest.main()   #["-s", "./test_case/", "--alluredir=./allure/allure_result/"]
     command = 'allure generate allure/allure_result -o allure/allure_report --clean'
-    os.system(command)
+    os.system(command) 
     #生成测试报告：allure generate allure/allure_result -o allure/allure_report --clean
