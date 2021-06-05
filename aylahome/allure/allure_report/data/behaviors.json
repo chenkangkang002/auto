@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试设备的H5",
+    "children" : [ {
+      "name" : "米兰新风面板H1",
+      "uid" : "d3ae40841701aaa4",
+      "parentUid" : "c8c92700a1226f13cd5c6ec48ee0bd5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622738596777,
+        "stop" : 1622738602047,
+        "duration" : 5270
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'cuId': 0, 'deviceId': 'VR00ZN000014504', 'deviceCategory': 'ZB-NODE-TS1-002', 'deviceName': '米兰新风面板H1', 'nickname': '米兰新风面板H1', 'deviceStatus': 'ONLINE', 'scopeId': 1326786058138001469, 'nodeType': None, 'deviceUseType': 0, 'firmwareVersion': None, 'metadata': {}, 'deviceTypeId': None, 'connectTypeId': 1, 'iconUrl': 'http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/015_milanxinfengmianbanH1.png', 'isPurposeDevice': 0, 'hasH5': 1, 'purposeName': None, 'pid': 'a1uROovwRDH', 'productType': 2, 'isNeedGateway': 1, 'roomName': '客厅'}" ]
+    } ],
+    "uid" : "c8c92700a1226f13cd5c6ec48ee0bd5a"
+  } ]
+}

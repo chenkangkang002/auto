@@ -1,0 +1,11 @@
+[ {
+  "uid" : "d3ae40841701aaa4",
+  "name" : "米兰新风面板H1",
+  "time" : {
+    "start" : 1622738596777,
+    "stop" : 1622738602047,
+    "duration" : 5270
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

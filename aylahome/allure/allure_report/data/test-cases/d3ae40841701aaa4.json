@@ -1,0 +1,138 @@
+{
+  "uid" : "d3ae40841701aaa4",
+  "name" : "米兰新风面板H1",
+  "fullName" : "test_case.test_h5.TestH5#test_01",
+  "historyId" : "3b09d0278f8ff6498a4e9972f7097de3",
+  "time" : {
+    "start" : 1622738596777,
+    "stop" : 1622738602047,
+    "duration" : 5270
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getDriver",
+    "time" : {
+      "start" : 1622738596774,
+      "stop" : 1622738596775,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击设备列表的具体设备米兰新风面板H1",
+      "time" : {
+        "start" : 1622738598448,
+        "stop" : 1622738598559,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击<返回设备列表",
+      "time" : {
+        "start" : 1622738601888,
+        "stop" : 1622738602047,
+        "duration" : 159
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "9c4acf99b45a3ed9",
+      "name" : "米兰新风面板H1的H5页面截图",
+      "source" : "9c4acf99b45a3ed9.png",
+      "type" : "image/png",
+      "size" : 101
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "getDriver::0",
+    "time" : {
+      "start" : 1622738602050,
+      "stop" : 1622738602050,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试设备的H5"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_h5"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestH5"
+  }, {
+    "name" : "host",
+    "value" : "PC-201808181651"
+  }, {
+    "name" : "thread",
+    "value" : "3612-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_h5"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "deviceData",
+    "value" : "{'cuId': 0, 'deviceId': 'VR00ZN000014504', 'deviceCategory': 'ZB-NODE-TS1-002', 'deviceName': '米兰新风面板H1', 'nickname': '米兰新风面板H1', 'deviceStatus': 'ONLINE', 'scopeId': 1326786058138001469, 'nodeType': None, 'deviceUseType': 0, 'firmwareVersion': None, 'metadata': {}, 'deviceTypeId': None, 'connectTypeId': 1, 'iconUrl': 'http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/015_milanxinfengmianbanH1.png', 'isPurposeDevice': 0, 'hasH5': 1, 'purposeName': None, 'pid': 'a1uROovwRDH', 'productType': 2, 'isNeedGateway': 1, 'roomName': '客厅'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3ae40841701aaa4.json",
+  "parameterValues" : [ "{'cuId': 0, 'deviceId': 'VR00ZN000014504', 'deviceCategory': 'ZB-NODE-TS1-002', 'deviceName': '米兰新风面板H1', 'nickname': '米兰新风面板H1', 'deviceStatus': 'ONLINE', 'scopeId': 1326786058138001469, 'nodeType': None, 'deviceUseType': 0, 'firmwareVersion': None, 'metadata': {}, 'deviceTypeId': None, 'connectTypeId': 1, 'iconUrl': 'http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/015_milanxinfengmianbanH1.png', 'isPurposeDevice': 0, 'hasH5': 1, 'purposeName': None, 'pid': 'a1uROovwRDH', 'productType': 2, 'isNeedGateway': 1, 'roomName': '客厅'}" ]
+}
